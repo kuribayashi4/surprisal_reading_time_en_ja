@@ -46,8 +46,8 @@ Run `visualize.ipynb` with the Python kernel.
 #### Download the models
 Some LMs we used in the experiments are uploaded in https://github.com/kuribayashi4/surprisal_reading_time_en_ja/releases/tag/v0.2.
 - Japanese LSTM LM with the best psychometric predictive power (10K updates, md dataset)
-- Japanese Transformer-sm LM weith the best PPL (10K updates, lg dataset)  
-- English Transformer-sm LM with nearly the best PPL and pschometric predictive power (10K updates, lg dataset)  
+- Japanese Transformer-sm LM weith the best PPL (100K updates, lg dataset)  
+- English Transformer-sm LM with nearly the best PPL and pschometric predictive power (100K updates, lg dataset)  
   
 #### Toy ecxamples
 Run `surprisal.ipynb` with the Python kernel.
